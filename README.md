@@ -33,6 +33,15 @@ Currently, I'm expanding my skills in full-stack development, modern application
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🎓 Education
+
+**Master's Degree in Computer Science and Econometrics**  
+Currently pursuing my degree.
+
+**Bachelor's Degree in Computer Science and Econometrics**  
+Completed in 2025.
+
+---
 
 ## 🧩 Software Development
 
@@ -55,12 +64,20 @@ Currently, I'm expanding my skills in full-stack development, modern application
 
 ---
 
-## 🎓 Education
+## 📊 Data Analysis
 
-**Master's Degree in Computer Science and Econometrics**  
-Currently pursuing my degree.
+I'm also familiar with data analysis and statistical methods, developed through academic projects in Computer Science and Econometrics.
 
-**Bachelor's Degree in Computer Science and Econometrics**  
-Completed in 2025.
+- Data analysis and data preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical analysis and hypothesis testing
+- Regression analysis and econometric modeling
+- Basic machine learning and predictive modeling
 
+**Technologies**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ---
+
+
