@@ -20,13 +20,9 @@ Currently, I'm expanding my skills in full-stack development, modern application
 
 **Frontend**
 
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-
-<sub>Also familiar with HTML5 and CSS3.</sub>
 
 <sub>Also familiar with HTML5 and CSS3.</sub>
 
